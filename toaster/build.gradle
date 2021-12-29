@@ -62,7 +62,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.github.shashankshivakumar'
                 artifactId = 'toaster'
-                version = '1.0.0'
+                version = '4.0.0'
             }
         }
     }
